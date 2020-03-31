@@ -13,33 +13,33 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "{{ 'assets/icons/icon@0,25x.png' | relative_url }}",
-      "type": "image/png",
+      "src": "{{ 'assets/icons/icon.JPG' | relative_url }}",
+      "type": "image/JPG",
       "sizes": "48x48"
     },
     {
-      "src": "{{ 'assets/icons/icon@0,5x.png' | relative_url }}",
-      "type": "image/png",
+      "src": "{{ 'assets/icons/icon.JPG' | relative_url }}",
+      "type": "image/JPG",
       "sizes": "96x96"
     },
     {
-      "src": "{{ 'assets/icons/icon@0,75x.png' | relative_url }}",
-      "type": "image/png",
+      "src": "{{ 'assets/icons/icon.JPG' | relative_url }}",
+      "type": "image/JPG",
       "sizes": "144x144"
     },
     {
-      "src": "{{ 'assets/icons/icon.png' | relative_url }}",
-      "type": "image/png",
+      "src": "{{ 'assets/icons/icon.JPG' | relative_url }}",
+      "type": "image/JPG",
       "sizes": "192x192"
     },
     {
-      "src": "{{ 'assets/icons/icon@2x.png' | relative_url }}",
-      "type": "image/png",
+      "src": "{{ 'assets/icons/icon.JPG' | relative_url }}",
+      "type": "image/JPG",
       "sizes": "384x384"
     },
     {
-      "src": "{{ 'assets/icons/icon@3x.png' | relative_url }}",
-      "type": "image/png",
+      "src": "{{ 'assets/icons/icon.JPG' | relative_url }}",
+      "type": "image/JPG",
       "sizes": "576x576"
     }
   ]
