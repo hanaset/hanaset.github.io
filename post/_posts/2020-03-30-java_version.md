@@ -61,6 +61,8 @@ tool적인 부분을 제외하고 언어적인 부분만 이야기를 하자면
 *Interface의 private 추가*
 * interface 구현에 있어 문제 해결을 위해 private와 private static을 할수 있도록 구현되었음.
 
+*Reactive Stream API 추가*
+
 
 ### 참고
 https://www.baeldung.com/java-8-new-features
