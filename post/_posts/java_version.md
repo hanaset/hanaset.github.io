@@ -1,5 +1,8 @@
 ---
-layout: page
+layout: list
+title: Post
+slug: Post
+menu: true
 title: Java Version 별 특징
 description: >
  각 자바의 버젼에 대해서 공부한 내용을 정
